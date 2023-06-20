@@ -38,6 +38,7 @@ Lasso is better model as it minimizes the features.
 - numpy 
 - sklearn 
 - statsmodelapi
+- sweetviz
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
